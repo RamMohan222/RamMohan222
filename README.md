@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java,Spring Boot and ReactJs
+- 🌱 I’m currently learning Python
+
 <!--
 **RamMohan222/RamMohan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
