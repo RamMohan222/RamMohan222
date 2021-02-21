@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java,Spring Boot and ReactJs
+- 🔭 I’m currently working on Java, SpringBoot, Microservices and ReactJs
 - 🌱 I’m currently learning Python
 
 <!--
