@@ -113,7 +113,7 @@
 <img title="Sonarqube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="70px" height="40px" style="border: 1px solid white">
 </div>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=rammohan222.visitor-badge" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=rammohan222.visitor-badge" alt="visitor badge" align="right"/>
 <!--
 **RamMohan222/RamMohan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
