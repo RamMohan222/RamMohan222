@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rammohan222&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rammohan222&layout=compact&langs_count=8&theme=cobalt"/>
 </a>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rammohan222" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rammohan222?trk=profile-badge">Rama Mohana Rao Molabanti</a></div>
 </p>
 
 ## 🛠 Tech Stack
