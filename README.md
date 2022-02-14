@@ -1,5 +1,5 @@
 🌱🔭
-## Hi 👋, I'm <a href="https://in.linkedin.com/in/rammohan222">Rama Mohana Rao Molabanti</a> a.k.a Ram
+## Hi 👋, I'm <a href="https://in.linkedin.com/in/rammohan222">Rama Mohana Rao Molabanti</a> a.k.a Ram / Ram Mohan
 <!--### Hi there 👋-->
 ### 👨🏻‍💻 &nbsp;About Me 
 
