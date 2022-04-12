@@ -2,9 +2,9 @@
 ## Hi 👋, I'm <a href="https://in.linkedin.com/in/rammohan222">Rama Mohana Rao Molabanti</a> a.k.a Ram / Ram Mohan
 <!--### Hi there 👋-->
 ### 👨🏻‍💻 &nbsp;About Me 
-
-- 🔭 I’m currently working on Java, SpringBoot, Spring Cloud, Microservices and ReactJs
-- 🌱 I’m currently learning Python
+- 💪 I have experience Java, NodeJs and ReactJs
+- 👨‍🔧 I’m currently working on Java, SpringBoot, Spring Cloud, Microservices and ReactJs
+- 🔭 I’m currently learning Python
 
 ## ⚙ GitHub Analytics
 
