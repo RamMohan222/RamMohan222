@@ -1,10 +1,27 @@
 🌱🔭
-## Hi 👋, I'm <a href="https://in.linkedin.com/in/rammohan222">Rama Mohana Rao Molabanti</a> a.k.a Ram / Ram Mohan
+## Hi 👋, I'm <a href="https://in.linkedin.com/in/rammohan222">Rama Mohana Rao Molabanti</a> <small>(a.k.a Ram / Ram Mohan)</small>
 <!--### Hi there 👋-->
 ### 👨🏻‍💻 &nbsp;About Me 
 - 💪 I have experience writing code in Java, NodeJs and ReactJs
 - 👨‍🔧 I’m currently working on Java, SpringBoot, Spring Cloud, Microservices and ReactJs
-- 🔭 I’m currently learning Python
+- 🔭 I’m currently learning Python and Go
+- 📫 How to reach me:
+<a href="mailto:ram222mohan@gmail.com">
+  <img align="left" alt="Ram's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rammohan222/">
+  <img align="left" alt="Ram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<!-- 
+<a href="https://twitter.com/rammohan222">
+  <img align="left" alt="Ram| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
+-->
+<a href="https://blog.ram222mohan.com/">
+  <img align="left" alt="ram222mohan's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg" />
+</a>
+
+<br />
 
 ## ⚙ GitHub Analytics
 
@@ -18,26 +35,19 @@
 ## 🛠 Tech Stack
 
 ### Languages
-
+<!-- 
+For Icon's
+https://github.com/tandpfun/skill-icons 
+https://github.com/marwin1991/profile-technology-icons
+-->
 <div>
-<img title="Java" src="https://logo.letskhabar.com/img?tool=java" width="50px"> 
-<img title="Javascript" src="https://logo.letskhabar.com/img?tool=javascript" width="50px">
-<img title="nodejs" src="https://logo.letskhabar.com/img?tool=nodejs" width="50px">
-<img title="Typescript" src="https://logo.letskhabar.com/img?tool=typescript" width="50px">
-<img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 2px solid white">
-
-
-<!-- <img title="Scala" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" width="50px" height="50px" style="border: 2px solid white"> -->
-<!-- <img title="Dart" src="https://logo.letskhabar.com/img?tool=dart" width="50px"> -->
-<!-- <img title="Golang" src="https://logo.letskhabar.com/img?tool=golang" width="50px"> -->
-<!-- <img title="Bash" src="https://www.cyberciti.biz/media/new/category/old/terminal.png" width="50px" style="border: 2px solid white"> -->
-<!-- <img title="Solidity" src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" width="50px" style="border: 2px solid white"> -->
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,ts" width="200px">
 </div>
 
 ### Frameworks
 
 <div>
-<img title="Spring" src="https://logo.letskhabar.com/img?tool=spring" width="50px">
+<img title="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="40px">
 <img title="Spring Boot" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50px" style="border: 1px solid white">
 <img title="Spring cloud" src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50px" style="border: 1px solid white">
 <img title="Spring Security" src="https://pbs.twimg.com/profile_images/1235983944463585281/AWCKLiJh_400x400.png" width="50px" style="border: 1px solid white">
@@ -47,8 +57,8 @@
   
 <!-- <img title="Flutter" src="https://logo.letskhabar.com/img?tool=flutter" width="50px"> -->
 <!-- <img title="GraphQL" src="https://logo.letskhabar.com/img?tool=graphql" width="50px"> -->
-<img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
-<img title="Angular" src="https://logo.letskhabar.com/img?tool=angularjs" width="50px">
+<img title="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="40px">
+<img title="Angular" src="https://skillicons.dev/icons?i=redux&theme=light" width="40px">
 <!-- <img title="gRPC" src="https://rsocket.io/img/r-socket-pink.svg" width="50px" height="40px" style="border: 1px solid white"> -->
 <img title="gRPC" src="https://grpc.io/img/logos/grpc-icon-color.png" width="50px" height="40px" style="border: 1px solid white">
 <!-- <img title="TestContainers" src="https://d33wubrfki0l68.cloudfront.net/13c9a4b570398ec611da4ec48085caaa48c5f2d2/39fb0/logo.svg" width="50px" height="40px" style="border: 1px solid white"> -->
