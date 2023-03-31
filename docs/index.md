@@ -8,12 +8,7 @@
 </p>
 </i> 
 </br>
-<!--
-- 💪 I have experience writing code in Java, NodeJs and ReactJs
-- 👨‍🔧 I’m currently working on Java, SpringBoot, Spring Cloud, Microservices and ReactJs
-- 🔭 I’m currently learning Python and Go
-- 📫 How to reach me:
--->
+
 <div>
 If you want to make a complaint about me? 
 </div>
