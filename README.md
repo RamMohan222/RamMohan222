@@ -7,7 +7,7 @@
 <p>I have married <strong>Java</strong>, and her sister <strong>JavaScript</strong> also came to me. Now, I have four children, with my wife <strong>Springboot</strong>, <strong>SpringCloud</strong>, as well as <strong>NodeJs</strong> and <strong>ReactJs</strong> with my wife's sister. When I feel bored or tired and need to refresh myself, I spend time with my new girl friends, <strong>Python</strong> and <strong>Go</strong>.
 </p>
 </i> 
-</br>
+<br>
 <!--
 - 💪 I have experience writing code in Java, NodeJs and ReactJs
 - 👨‍🔧 I’m currently working on Java, SpringBoot, Spring Cloud, Microservices and ReactJs
