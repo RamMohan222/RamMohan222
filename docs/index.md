@@ -9,7 +9,7 @@ I have married <strong>Java</strong>, and her sister <strong>JavaScript</strong>
   </i>
 </p>
  
-</br>
+<br>
 
 <div>
 If you want to make a complaint about me? 
