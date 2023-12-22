@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 
 <i>
-<p>I have married <strong>Java</strong>, and her sister <strong>JavaScript</strong> also came to me. Now, I have four children, with my wife <strong>Springboot</strong>, <strong>SpringCloud</strong>, as well as <strong>NodeJs</strong> and <strong>ReactJs</strong> with my wife's sister. When I feel bored or tired and need to refresh myself, I spend time with my new girl friends, <strong>Python</strong> and <strong>Go</strong>.
+<p>I have married Java, and unfortunately, I had to marry her sister JavaScript as well. Now, I have four children, with my wife <strong>Springboot</strong>, <strong>SpringCloud</strong>, as well as <strong>NodeJs</strong> and <strong>ReactJs</strong> with my wife's sister. When I feel bored or tired and need to refresh myself, I spend time with my new girlfriends, <strong>Python</strong> and <strong>Go</strong>.
 </p>
 </i> 
 <br>
