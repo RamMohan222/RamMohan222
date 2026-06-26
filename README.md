@@ -23,8 +23,7 @@ I am a Software Engineer with 10+ years of experience designing and developing s
 If you want to make a complaint about me? 
 </div>
 <a href="mailto:ram222mohan@gmail.com">
-  <img style="color:ffffff;" align="left" alt="Ram's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
-  <img align="left" alt="Ram's Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/_/ffffff" />
+  <img align="left" alt="Ram's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rammohan222/">
   <img align="left" alt="Ram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -40,6 +39,7 @@ If you want to make a complaint about me?
 
 <br />
 
+<!--
 ## ⚙ GitHub Analytics
 
 <p align="center">
@@ -48,7 +48,7 @@ If you want to make a complaint about me?
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rammohan222&layout=compact&langs_count=8&theme=cobalt"/>
 </a>
 </p>
-
+-->
 ## 🛠 Tech Stack
 
 ### Languages
