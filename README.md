@@ -23,7 +23,7 @@ I am a Software Engineer with 10+ years of experience designing and developing s
 If you want to make a complaint about me? 
 </div>
 <a href="mailto:ram222mohan@gmail.com">
-  <img style='color:white' align="left" alt="Ram's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg?color=ffffff" />
+  <img style="color:ffffff;" align="left" alt="Ram's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
   <img align="left" alt="Ram's Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/_/ffffff" />
 </a>
 <a href="https://www.linkedin.com/in/rammohan222/">
