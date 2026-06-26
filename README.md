@@ -24,6 +24,7 @@ If you want to make a complaint about me?
 </div>
 <a href="mailto:ram222mohan@gmail.com">
   <img align="left" alt="Ram's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
+  <img align="left" alt="Ram's Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/_/ffffff" />
 </a>
 <a href="https://www.linkedin.com/in/rammohan222/">
   <img align="left" alt="Ram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
