@@ -4,8 +4,13 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 
 <i>
+<!--  
 <p>I have married Java, and unfortunately, I had to marry her sister JavaScript as well. Now, I have four children, with my wife <strong>Springboot</strong>, <strong>SpringCloud</strong>, as well as <strong>NodeJs</strong> and <strong>ReactJs</strong> with my wife's sister. When I feel bored or tired and need to refresh myself, I spend time with my new girlfriends, <strong>Python</strong> and <strong>Go</strong>.
 </p>
+-->
+<p>
+I am a Software Engineer with 10+ years of experience designing and developing scalable enterprise applications. My core expertise is in Java, complemented by extensive experience with Spring Boot and Spring Cloud for building microservices and cloud-native applications. On the frontend and JavaScript ecosystem, I have hands-on experience with Node.js and React.js, enabling me to deliver end-to-end solutions. I also enjoy exploring Python and Go to continuously expand my skill set and embrace emerging technologies.
+</p>  
 </i> 
 <br>
 <!--
