@@ -168,7 +168,8 @@ https://github.com/marwin1991/profile-technology-icons
 <img title="Sonarqube" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" width="40px">
 </div>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=rammohan222.visitor-badge" alt="visitor badge" align="right"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=?page_id=rammohan222.rammohan222" alt="visitor badge" align="right"/>
+<!--<img src="https://komarev.com/ghpvc/?username=rammohan222&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" align="right"/>-->
 <!--
 **RamMohan222/RamMohan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
